@@ -22,7 +22,7 @@
           "id": 1,
           "text": "This is the first answer to Q1",
           "image" : "",
-          "tags": "tag1, tag2, tag3, tag4",
+          "tags": "tag1, tag2, tag3, tag4"
         }
       ]
     },
@@ -36,7 +36,7 @@
           "id": 1,
           "text": "This is the first answer to Q2",
           "image" : "",
-          "tags": "tag1, tag2, tag3, tag4",
+          "tags": "tag1, tag2, tag3, tag4"
         }
       ]
     }
