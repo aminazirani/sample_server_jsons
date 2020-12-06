@@ -10,5 +10,35 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "questions":[
+    {
+      "id": 1,
+      "title": "The Title to Question 1",
+      "subTitle": "The subTitle to Question 1",
+      "image": "",
+      "answers": [ 
+        {
+          "id": 1,
+          "text": "This is the first answer to Q1",
+          "image" : "",
+          "tags": "tag1, tag2, tag3, tag4",
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Title to Question 2",
+      "subTitle": "The subTitle to Question 2",
+      "image": "",
+      "answers": [ 
+        {
+          "id": 1,
+          "text": "This is the first answer to Q2",
+          "image" : "",
+          "tags": "tag1, tag2, tag3, tag4",
+        }
+      ]
+    }
+  ]
 }
