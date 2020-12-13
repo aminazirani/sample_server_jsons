@@ -17,12 +17,19 @@
       "title": "The Title to Question 1",
       "subTitle": "The subTitle to Question 1",
       "image": "",
+      "type": "text",
       "answers": [ 
         {
           "id": 1,
           "text": "This is the first answer to Q1",
           "image" : "",
           "tags": "tag1, tag2, tag3, tag4"
+        },
+        {
+          "id": 2,
+          "text": "This is the second answer to Q1",
+          "image" : "",
+          "tags": "tag5, tag6, tag7, tag8"
         }
       ]
     },
@@ -31,6 +38,7 @@
       "title": "The Title to Question 2",
       "subTitle": "The subTitle to Question 2",
       "image": "",
+      "type": "text",
       "answers": [ 
         {
           "id": 1,
