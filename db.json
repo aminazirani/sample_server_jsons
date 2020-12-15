@@ -17,27 +17,21 @@
       "title": "The Title to Question 1",
       "subTitle": "The subTitle to Question 1",
       "image": "",
-      "type": "color",
+      "type": "text",
       "answers": [ 
         {
           "id": 1,
           "text": "This is the first answer to Q1",
-          "image" : "",
-          "tags": "tag1, tag2, tag3, tag4",
           "selected": false
         },
         {
           "id": 2,
           "text": "This is the second answer to Q1",
-          "image" : "",
-          "tags": "tag5, tag6, tag7, tag8",
           "selected": false
         },
         {
           "id": 3,
           "text": "This is the third answer to Q1",
-          "image" : "",
-          "tags": "tag5, tag6, tag7, tag8",
           "selected": true
         }
       ]
@@ -46,21 +40,16 @@
       "id": 2,
       "title": "The Title to Question 2",
       "subTitle": "The subTitle to Question 2",
-      "image": "",
-      "type": "text",
+      "type": "color",
       "answers": [ 
         {
           "id": 1,
-          "text": "This is the first answer to Q2",
-          "image" : "",
-          "tags": "tag1, tag2, tag3, tag4",
+          "color" : "0xFF00B0FF",
           "selected": false
         },
         {
           "id": 2,
-          "text": "This is the second answer to Q2",
-          "image" : "",
-          "tags": "tag5, tag6, tag7, tag8",
+          "color" : "0xFFDDB040",
           "selected": false
         }
       ]
@@ -69,14 +58,31 @@
       "id": 3,
       "title": "The Title to Question 3",
       "subTitle": "The subTitle to Question 3",
-      "image": "",
       "type": "image",
       "answers": [ 
         {
           "id": 1,
-          "text": "This is the first answer to Q3",
-          "image" : "",
-          "tags": "tag1, tag2, tag3, tag4",
+          "image" : "https://www.outfittery.de/funnels/new/img/spring2019/leisureSpring2019_1@2x.jpg",
+          "selected": false
+        },
+        {
+          "id": 2,
+          "image" : "https://www.outfittery.de/funnels/new/img/spring2019/leisureSpring2019_2@2x.jpg",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "image" : "https://www.outfittery.de/funnels/new/img/spring2019/leisureSpring2019_3@2x.jpg",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "image" : "https://www.outfittery.de/funnels/new/img/spring2019/leisureSpring2019_4@2x.jpg",
+          "selected": false
+        },
+        {
+          "id": 5,
+          "image" : "https://www.outfittery.de/funnels/new/img/spring2019/leisureSpring2019_5@2x.jpg",
           "selected": false
         }
       ]
