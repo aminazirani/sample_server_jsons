@@ -11,81 +11,34 @@
   "profile": {
     "name": "typicode"
   },
-  "questions":[
-    {
-      "id": 1,
-      "title": "The Title to Question 1",
-      "subTitle": "The subTitle to Question 1",
-      "image": "",
-      "type": "text",
-      "answers": [ 
-        {
-          "id": 1,
-          "text": "This is the first answer to Q1",
-          "selected": false
-        },
-        {
-          "id": 2,
-          "text": "This is the second answer to Q1",
-          "selected": false
-        },
-        {
-          "id": 3,
-          "text": "This is the third answer to Q1",
-          "selected": true
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "The Title to Question 2",
-      "subTitle": "The subTitle to Question 2",
-      "type": "color",
-      "answers": [ 
-        {
-          "id": 1,
-          "color" : "0xFF00B0FF",
-          "selected": false
-        },
-        {
-          "id": 2,
-          "color" : "0xFFDDB040",
-          "selected": false
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "The Title to Question 3",
-      "subTitle": "The subTitle to Question 3",
-      "type": "image",
-      "answers": [ 
-        {
-          "id": 1,
-          "image" : "https://www.outfittery.de/funnels/new/img/spring2019/leisureSpring2019_1@2x.jpg",
-          "selected": false
-        },
-        {
-          "id": 2,
-          "image" : "https://www.outfittery.de/funnels/new/img/spring2019/leisureSpring2019_2@2x.jpg",
-          "selected": false
-        },
-        {
-          "id": 3,
-          "image" : "https://www.outfittery.de/funnels/new/img/spring2019/leisureSpring2019_3@2x.jpg",
-          "selected": false
-        },
-        {
-          "id": 4,
-          "image" : "https://www.outfittery.de/funnels/new/img/spring2019/leisureSpring2019_4@2x.jpg",
-          "selected": false
-        },
-        {
-          "id": 5,
-          "image" : "https://www.outfittery.de/funnels/new/img/spring2019/leisureSpring2019_5@2x.jpg",
-          "selected": false
-        }
-      ]
-    }
+    "questions":[
+  {
+    "id": 1,
+    "title": "For what occasions are you looking for clothes?",
+    "subTitle": "",
+    "type": "image",
+    "answers": [ 
+      {
+        "id": 1,
+        "image" : "https://github.com/aminazirani/sample_server_jsons/blob/main/WhatsApp%20Image%202020-12-28%20at%2013.07.46-2.jpeg?raw=true",
+        "selected": false
+      },
+      {
+        "id": 2,
+        "image" : "https://github.com/aminazirani/sample_server_jsons/blob/main/WhatsApp%20Image%202020-12-28%20at%2013.07.46.jpeg?raw=true",
+        "selected": false
+      },
+      {
+        "id": 3,
+        "image" : "https://github.com/aminazirani/sample_server_jsons/blob/main/WhatsApp%20Image%202020-12-28%20at%2013.07.47-2.jpeg?raw=true",
+        "selected": false
+      },
+      {
+        "id": 4,
+        "image" : "https://github.com/aminazirani/sample_server_jsons/blob/main/WhatsApp%20Image%202020-12-28%20at%2013.07.47.jpeg?raw=true",
+        "selected": false
+      }
+    ]
+  }
   ]
 }
